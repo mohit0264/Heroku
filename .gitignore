@@ -1,5 +1,4 @@
 vendor/
-composer.lock
 /dart/part/packages/
 /dart/part/test/packages
 pubspec.lock
