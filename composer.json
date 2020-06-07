@@ -11,7 +11,7 @@
     "phpunit/dbunit": "2.*",
     "codeclimate/php-test-reporter": "dev-master"
   },
-  "license": "MIT",
+  "license": "composer.lock",
   "authors": [
     {
       "name": "Christian Budde Christensen",
@@ -30,4 +30,4 @@
     }
   }
 }
-composer.lock
+
